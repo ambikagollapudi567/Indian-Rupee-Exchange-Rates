@@ -25,3 +25,5 @@ Dependencies:
     .Pandas
     .BeautifulSoup
     .Urllib
+    
+Note:Installing Anaconda Distribution will resolve all the dependencies. Code changes and modifications needed depending on the layout of the web page and placement of the features in the given web page.
