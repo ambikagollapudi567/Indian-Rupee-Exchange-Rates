@@ -8,7 +8,7 @@ Steps:
 
     .Identify the feature to be extracted from the data.
 
-    .For example, In the current repository I am extracting following feature.
+    .For example, In the current repository I am extracting following features.
 
          1. CurrencyName.
          
