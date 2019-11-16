@@ -1,5 +1,5 @@
 # Indian-Rupee-Exchange-Rates
-
+P
 In the current repository I have extracted the data from one of the website usingweb-scraping technique and finally saved the file into a .csv file for further processing and analysis.
 
 Steps:
@@ -19,3 +19,9 @@ Steps:
     .Extracting the data from the html tags.
 
     .Saving the file into a .csv file for further processing.
+   
+Dependencies:
+
+    .Pandas
+    .BeautifulSoup
+    .Urllib
