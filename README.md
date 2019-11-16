@@ -20,7 +20,7 @@ Steps:
 
     .Saving the file into a .csv file for further processing.
    
-Dependencies:
+##Dependencies:
 
     .Pandas
     .BeautifulSoup
